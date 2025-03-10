@@ -1,0 +1,43 @@
+[
+  {
+    "dateStart": "12/31/2022",
+    "data": [
+      {
+        "min": 0,
+        "max": 685,
+        "tax": 0,
+        "percentage": 0
+      },
+      {
+        "min": 685,
+        "max": 1095,
+        "tax": 0,
+        "percentage": 0.2
+      },
+      {
+        "min": 1096,
+        "max": 2191,
+        "tax": 82.19,
+        "percentage": 0.25
+      },
+      {
+        "min": 2192,
+        "max": 5478,
+        "tax": 356.16,
+        "percentage": 0.3
+      },
+      {
+        "min": 5479,
+        "max": 21917,
+        "tax": 1342.47,
+        "percentage": 0.32
+      },
+      {
+        "min": 21917,
+        "max": 0,
+        "tax": 6602.74,
+        "percentage": 0.35
+      }
+    ]
+  }
+]
