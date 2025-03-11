@@ -1,6 +1,5 @@
 [
     {
-        "key": "20201-01-01",
         "employeeMinimumShare": 100,
         "employeeMinimumPercentage": 2,
         "percentage": 2,
@@ -8,7 +7,6 @@
         "maximumEmployeeShare": 100
     },
     {
-        "keys": "2024-01-01",
         "employeeMinimumShare": 200,
         "employeeMinimumPercentage": 2,
         "percentage": 2,
