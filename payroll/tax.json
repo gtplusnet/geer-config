@@ -2,7 +2,7 @@
   {
     "dateStart": "2018-01-01",
     "label": "Start of January 2018",
-    "daily": [
+    "DAILY": [
       {
         "min": 0,
         "max": 685,
@@ -40,7 +40,7 @@
         "percentage": 35
       }
     ],
-    "weekly": [
+    "WEEKLY": [
       {
         "min": 0,
         "max": 4808,
@@ -78,7 +78,7 @@
         "percentage": 35
       }
     ],
-    "semiMonthly": [
+    "SEMIMONTHLY": [
       {
         "min": 0,
         "max": 10417,
@@ -116,7 +116,7 @@
         "percentage": 35
       }
     ],
-    "monthly": [
+    "MONTHLY": [
       {
         "min": 0,
         "max": 20833,
