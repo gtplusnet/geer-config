@@ -1,0 +1,154 @@
+{
+  "DAILY": [
+    {
+      "min": 0,
+      "max": 685,
+      "tax": 0,
+      "percentage": 0
+    },
+    {
+      "min": 685,
+      "max": 1095,
+      "tax": 0,
+      "percentage": 2
+    },
+    {
+      "min": 1096,
+      "max": 2191,
+      "tax": 82.19,
+      "percentage": 25
+    },
+    {
+      "min": 2192,
+      "max": 5478,
+      "tax": 356.16,
+      "percentage": 3
+    },
+    {
+      "min": 5479,
+      "max": 21917,
+      "tax": 1342.47,
+      "percentage": 32
+    },
+    {
+      "min": 21917,
+      "max": 0,
+      "tax": 6602.74,
+      "percentage": 35
+    }
+  ],
+  "WEEKLY": [
+    {
+      "min": 0,
+      "max": 4808,
+      "tax": 0,
+      "percentage": 0
+    },
+    {
+      "min": 4808,
+      "max": 7691,
+      "tax": 0,
+      "percentage": 20
+    },
+    {
+      "min": 7692,
+      "max": 15384,
+      "tax": 576.92,
+      "percentage": 25
+    },
+    {
+      "min": 15385,
+      "max": 38461,
+      "tax": 2500,
+      "percentage": 30
+    },
+    {
+      "min": 38462,
+      "max": 153845,
+      "tax": 9423.08,
+      "percentage": 32
+    },
+    {
+      "min": 153846,
+      "max": 0,
+      "tax": 46346.15,
+      "percentage": 35
+    }
+  ],
+  "SEMIMONTHLY": [
+    {
+      "min": 0,
+      "max": 10417,
+      "tax": 0,
+      "percentage": 0
+    },
+    {
+      "min": 10417,
+      "max": 16666,
+      "tax": 0,
+      "percentage": 20
+    },
+    {
+      "min": 16667,
+      "max": 33332,
+      "tax": 1250,
+      "percentage": 25
+    },
+    {
+      "min": 33333,
+      "max": 83332,
+      "tax": 5416.67,
+      "percentage": 30
+    },
+    {
+      "min": 83333,
+      "max": 333332,
+      "tax": 20416.67,
+      "percentage": 32
+    },
+    {
+      "min": 333333,
+      "max": 0,
+      "tax": 100416.67,
+      "percentage": 35
+    }
+  ],
+  "MONTHLY": [
+    {
+      "min": 0,
+      "max": 20833,
+      "tax": 0,
+      "percentage": 0
+    },
+    {
+      "min": 20833,
+      "max": 33332,
+      "tax": 0,
+      "percentage": 20
+    },
+    {
+      "min": 33333,
+      "max": 66666,
+      "tax": 2500,
+      "percentage": 25
+    },
+    {
+      "min": 66667,
+      "max": 166666,
+      "tax": 10833.33,
+      "percentage": 30
+    },
+    {
+      "min": 166667,
+      "max": 666666,
+      "tax": 40833.33,
+      "percentage": 32
+    },
+    {
+      "min": 666667,
+      "max": 0,
+      "tax": 666667,
+      "percentage": 35
+    }
+  ]
+}

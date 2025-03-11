@@ -1,0 +1,107 @@
+[
+  {
+    "name": "New Year's Day",
+    "date": "2025-01-01",
+    "type": "Regular"
+  },
+  {
+    "name": "Chinese New Year",
+    "date": "2025-01-29",
+    "type": "Special"
+  },
+  {
+    "name": "EDSA People Power Revolution Anniversary",
+    "date": "2025-02-25",
+    "type": "Special"
+  },
+  {
+    "name": "Maundy Thursday",
+    "date": "2025-04-17",
+    "type": "Regular"
+  },
+  {
+    "name": "Good Friday",
+    "date": "2025-04-18",
+    "type": "Regular"
+  },
+  {
+    "name": "Black Saturday",
+    "date": "2025-04-19",
+    "type": "Special"
+  },
+  {
+    "name": "Araw ng Kagitingan",
+    "date": "2025-04-09",
+    "type": "Regular"
+  },
+  {
+    "name": "Labor Day",
+    "date": "2025-05-01",
+    "type": "Regular"
+  },
+  {
+    "name": "Independence Day",
+    "date": "2025-06-12",
+    "type": "Regular"
+  },
+  {
+    "name": "Eid'l Fitr",
+    "date": "2025-03-30",
+    "type": "Regular"
+  },
+  {
+    "name": "Eid'l Adha",
+    "date": "2025-06-06",
+    "type": "Regular"
+  },
+  {
+    "name": "Ninoy Aquino Day",
+    "date": "2025-08-21",
+    "type": "Special"
+  },
+  {
+    "name": "National Heroes Day",
+    "date": "2025-08-25",
+    "type": "Regular"
+  },
+  {
+    "name": "All Saints' Day",
+    "date": "2025-11-01",
+    "type": "Special"
+  },
+  {
+    "name": "All Souls' Day",
+    "date": "2025-11-02",
+    "type": "Special"
+  },
+  {
+    "name": "Bonifacio Day",
+    "date": "2025-11-30",
+    "type": "Regular"
+  },
+  {
+    "name": "Feast of the Immaculate Conception",
+    "date": "2025-12-08",
+    "type": "Special"
+  },
+  {
+    "name": "Christmas Eve",
+    "date": "2025-12-24",
+    "type": "Special"
+  },
+  {
+    "name": "Christmas Day",
+    "date": "2025-12-25",
+    "type": "Regular"
+  },
+  {
+    "name": "Rizal Day",
+    "date": "2025-12-30",
+    "type": "Regular"
+  },
+  {
+    "name": "New Year's Eve",
+    "date": "2025-12-31",
+    "type": "Special"
+  }
+]
