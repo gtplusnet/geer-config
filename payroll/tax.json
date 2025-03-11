@@ -236,7 +236,7 @@
     ],
     "SEMIMONTHLY": [
       {
-        "min": 1,
+        "min": 0,
         "max": 10417,
         "tax": 0,
         "percentage": 0
