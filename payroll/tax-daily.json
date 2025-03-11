@@ -1,6 +1,7 @@
 [
   {
-    "dateStart": "12/31/2022",
+    "dateStart": "01/01/2018",
+    "label": "Start of January 2018",
     "daily": [
       {
         "min": 0,
@@ -155,7 +156,8 @@
     ]
   },
   {
-    "dateStart": "12/31/2023",
+    "dateStart": "01/01/2023",
+    "label": "Start of January 2023",
     "daily": [
       {
         "min": 0,
