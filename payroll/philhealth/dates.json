@@ -6,8 +6,8 @@
          "computationType": "v1"
     },
     {
-        "key": "2024-01-01",
-        "dateStart": "2024-01-01",
+        "key": "2023-01-01",
+        "dateStart": "2023-01-01",
         "label": "Start of January 2024",
          "computationType": "v2"
     }
